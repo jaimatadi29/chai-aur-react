@@ -1,0 +1,17 @@
+.circle {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  background-color: brown;
+}
+.circle-section {
+  align-items: center;
+}
+
+.page-button {
+  padding: 5px 8px;
+  margin: 10px 15px;
+  background-color: blueviolet;
+  border: 1px solid #000;
+  border-radius: 5px;
+}

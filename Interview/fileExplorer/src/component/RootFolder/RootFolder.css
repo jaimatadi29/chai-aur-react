@@ -1,0 +1,21 @@
+.root-folder {
+    background-color: darkolivegreen;
+    padding: 10px 10px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    width: 20%;
+    display: flex;
+    justify-content: space-between;
+}
+.child-folder {
+    padding: 10px 10px;
+    border-radius: 10px;
+    background-color:bisque;
+    margin-bottom: 10px;
+}
+.child-file {
+    padding: 10px 10px;
+    border-radius: 10px;
+    background-color:brown;
+    margin-bottom: 10px;
+}

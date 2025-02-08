@@ -1,0 +1,11 @@
+body{
+  padding: 20px;
+  margin: 20px;
+  background-color: azure;
+}
+.pagination{
+  width: 100%;
+  background-color:darkgray;
+  color: #fff;
+  text-align: center;
+}
